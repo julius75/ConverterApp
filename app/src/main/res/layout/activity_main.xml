@@ -23,6 +23,7 @@
         android:text="@string/converter" />
 
     <TextView
+        android:paddingLeft="3dp"
         android:textSize="17sp"
         android:gravity="center"
         android:id="@+id/mili"
